@@ -12,6 +12,6 @@ Vertex AIやGCS等を使用している部分は、研修以外の環境でや�
 - 01_image_classification
   - 01ex_pruning
 - 02_transfer_learning
-- 03_document_retrieval_by_RAG
+- 03_document_retrieval_by_RAG * このハンズオンで使用する画像データは研修外で利用する場合は、別途用意する必要があります
   - 03ex_parameter_tuning
 - 04_deploy_and_serving
