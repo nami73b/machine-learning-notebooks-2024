@@ -1,7 +1,6 @@
 # machine-learning-notebooks
 
 AI研修のハンズオン用リポジトリです。  
-スライド: https://speakerdeck.com/mixi_engineers
 
 ## 注意事項
 このリポジトリは`hands-on`ディレクトリの各チャプター内にある`*.ipynb`ファイルに対して、GCPのJupyterLab環境内で動作させることを想定しています。  
